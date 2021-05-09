@@ -1,2 +1,4 @@
 # octo
-ekane project hobe
+trying git
+## subheading
+watched youtube tutorial
